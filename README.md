@@ -44,9 +44,9 @@ cd chaos-image-encryption
 pip install -r requirements.txt
 
 ## 📝 Notes
-1.The key must be kept secret; without it, decryption is impossible.
-2.Small changes in the key result in entirely different outputs.
-3.Different chaotic maps can be tested for varying security levels.
+The key must be kept secret; without it, decryption is impossible.
+Small changes in the key result in entirely different outputs.
+Different chaotic maps can be tested for varying security levels.
 
 ## 📜 References
 Chaos-Based Cryptography
